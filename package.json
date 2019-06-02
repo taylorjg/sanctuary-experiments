@@ -1,0 +1,11 @@
+{
+  "name": "sanctuary-experiments",
+  "version": "0.0.0",
+  "description": "Experiments with sanctuary.js",
+  "dependencies": {
+    "sanctuary": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": "Jonathan Taylor",
+  "license": "MIT"
+}
