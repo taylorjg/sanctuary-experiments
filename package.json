@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "description": "Experiments with sanctuary.js",
   "dependencies": {
+    "eslint": "^5.16.0",
     "sanctuary": "^2.0.0"
+  },
+  "scripts": {
+    "eslint": "eslint ."
   },
   "devDependencies": {},
   "author": "Jonathan Taylor",
